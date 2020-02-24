@@ -1,2 +1,5 @@
-##To run
-docker build -t nmap .
+# To build
+* docker build -t nmap .
+
+# To run
+* docker run nmap
