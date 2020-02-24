@@ -1,2 +1,2 @@
 ##To run
-docker bbuild -t nmap .
+docker build -t nmap .
